@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://github.com/anir001/product-preview-card-component-main
+- Live Site URL: https://anir001.github.io/product-preview-card-component-main/
 
 ## My process
 
